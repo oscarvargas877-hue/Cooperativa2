@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package modelo;
-
+// UPCASTING Y DOWNCASTING
 /**
  *
  * @author Usuario
@@ -76,10 +76,7 @@ public class Main {
                 System.out.println();
                 System.out.println("Datos completos del empleado:  " + empleadoRecuperado.toString());
 
-             }
-            
+             }   
         }
-        
-     
     }
 }
