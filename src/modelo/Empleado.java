@@ -3,11 +3,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package modelo;
-
+//
 /**
  *
  * @author Usuario
  */
+//EMPLEADO
 public class Empleado extends Persona {
     //ATRIBUTOS
     private int idEmpleado;
